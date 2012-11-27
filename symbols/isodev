@@ -27,7 +27,9 @@ xkb_symbols "basic" {
     key <LWIN> {[  dead_acute,   dead_diaeresis                                ]};    
     key <LSGT> {[   backslash,              bar                                ]};
     key <AB06> {[           n,                N,        ntilde,       Ntilde   ]};    
-    key <AB07> {[           m,                M,            mu,           mu   ]};    
+    key <AB07> {[           m,                M,            mu,           mu   ]};
+    key <AB08> {[       comma,             less                                ]};
+    key <AB09> {[      period,          greater                                ]};
     key <AB10> {[       slash,         question,  questiondown,    dead_hook   ]};
 
     include "level3(ralt_switch)"
