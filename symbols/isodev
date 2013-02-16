@@ -21,7 +21,6 @@ xkb_symbols "basic" {
     
     key <AC01> {[           a,                A,   ordfeminine                 ]};
     key <AC02> {[           s,                S,        ssharp                 ]};
-    key <BKSL> {[  dead_acute,   dead_diaeresis                                ]};
     
     
     key <LWIN> {[  dead_acute,   dead_diaeresis                                ]};    
